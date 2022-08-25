@@ -1,4 +1,4 @@
-This is and exploratory data analysis done on a hypothetical Donor dataset.
+This is an exploratory data analysis done on a hypothetical Donor dataset.
 
 Findings and Recommendations 
 The following insights can be drawn from the analysis and visualizations:

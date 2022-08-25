@@ -1,6 +1,7 @@
 This is an exploratory data analysis done on a hypothetical Donor dataset.
 
-Findings and Recommendations 
+### Findings and Recommendations 
+
 The following insights can be drawn from the analysis and visualizations:
 1.	The top 5 states with the highest amount of donations made also had the highest number of donors.
 2.	The top 5 weekly donors are all located in the top 3 states with the highest donations.

@@ -1,3 +1,4 @@
+#### Dataset
 This is an exploratory data analysis done on a hypothetical Donor dataset.
 
 ### Findings and Recommendations 
@@ -11,5 +12,5 @@ The 2 major ways to increase the donation value would be to:
 2.	To encourage more people to become donors preferably in the top 5 states where they are more likely to donate and become donors.
 
 
-Conclusion
+#### Conclusion
 I concluded that focusing fundraising efforts in the top 5 state with the highest donations could potentially give us the best result in terms of increasing the donation value. 
